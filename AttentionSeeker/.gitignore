@@ -1,6 +1,9 @@
 .env
 output/result.mp4
 output/resultAudio.mp3
-videos/
-images/
-audio/
+videos/benchmark.mp4
+videos/clashroyale.mp4
+videos/games.mp4
+videos/parkour.mp4
+videos/parkour(bad).mp4
+videos/satisfying.mp4
